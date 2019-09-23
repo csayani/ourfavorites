@@ -3,5 +3,6 @@ these are some of our favorite foods:
 pizza 
 Pasta
 Ceviche
-Steak
 new milk steak
+=======
+Vegan Non-Milk Steak
